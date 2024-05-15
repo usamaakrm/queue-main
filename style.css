@@ -385,6 +385,7 @@ section {
     padding:20px;
     font-size: 1rem;
     align-content: center;
+    align-items: center;
   }
 
   .time-item span {
