@@ -1,7 +1,7 @@
  document.getElementById("phone").innerHTML = "#"+ Math.floor(Math.random()*(81288256109249 - 1 + 1))+ 1
  document.getElementById("queue").innerHTML = Math.floor(Math.random()*(65 - 80 + 1))+80
  document.getElementById("main").innerHTML = Math.floor(Math.random()*(34 - 3 + 1))+ 3
-//  document.getElementById("time").innerHTML = Math.floor(Math.random()*(60 - 1 + 1))+ 1
+ document.getElementById("time").innerHTML = Math.floor(Math.random()*(19878 - 11101 + 1))+ 11101
  const d = new Date()
     const Hour = d.getHours()
     const Min = d.getMinutes() + 1
