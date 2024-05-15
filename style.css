@@ -142,7 +142,7 @@ section {
 .letter {
   display: inline-block;
   font-family: sans-serif;
-  font-size: 52px;
+  font-size: 42px;
   font-weight: 900;
   color: #086153;
   animation-name: letterAppears;
@@ -155,7 +155,7 @@ section {
 
 .letterO {
   background-color: white;
-  height: 40px;
+  height: 35px;
   border-radius: 20px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -168,7 +168,7 @@ section {
 
 .welcome {
   font-family: sans-serif;
-  font-size: 52px;
+  font-size: 32px;
   font-weight: 900;
   color: #086153;
   height: 90px;
@@ -400,7 +400,8 @@ section {
   }
 
   .welcome {
-    font-size: 2rem;
+    font-size: 1.4rem;
+    margin-top: 0px;
   }
 
   .form {
